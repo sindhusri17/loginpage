@@ -1,4 +1,1 @@
 streamlit
-gtts
-qrcode
-uuid
